@@ -1,0 +1,6 @@
+name = "cf-openai-azure-proxy"
+main = "src/index.ts"
+compatibility_date = "2023-04-07"
+kv_namespaces = [
+    { binding = "AZURE_OPENAI", id = "50d68b90caf84850b11079e0755555a1", preview_id = "60e01c8ef60343ac9905495850015357" }
+]
